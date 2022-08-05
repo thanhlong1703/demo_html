@@ -1,0 +1,23 @@
+{
+    "products":[
+        {"productID": "PRO001", "productName": "Peach", "price": "$180.00","quantiny":"20","productImg":"url(public/image/pro/pro-img-014.jpg)"},
+        {"productID": "PRO002", "productName": "Guava", "price": "$150.00","quantiny":"30","productImg":"url(public/image/pro/pro-img-011.jpg)"},
+        {"productID": "PRO003", "productName": "Apple", "price": "$170.00","quantiny":"20","productImg":"url(public/image/pro/pro-img-03.jpg)"},
+        {"productID": "PRO004", "productName": "Coconut", "price": "$180.00","quantiny":"20","productImg":"url(public/image/pro/pro-img-09.jpg)"},
+        {"productID": "PRO005", "productName": "Melon", "price": "$190.00","quantiny":"20","productImg":"url(public/image/pro/pro-img-01.jpg)"}
+    ],
+    "slides":[
+        {"slideID": "SLD001", "slideName": "slider1", "slideImg": "url(public/image/slider1.jpg"},
+        {"slideID": "SLD002", "slideName": "slider2", "slideImg": "url(public/image/slider2.jpg"},
+        {"slideID": "SLD003", "slideName": "slider3", "slideImg": "url(public/image/slider3.jpg"}
+    ],
+    "blogs":[
+        {"blogID": "BLOG001", "blogName": "Green onion knife and salad", "blogImg": "url(public/image/blog-image/blog-1.jpg)"},
+        {"blogID": "BLOG002", "blogName": "All time fresh every time", "blogImg": "url(public/image/blog-image/blog-2.jpg)"},
+        {"blogID": "BLOG003", "blogName": "Vegist special liquide fresh", "blogImg": "url(public/image/blog-image/blog-3.jpg)"},
+        {"blogID": "BLOG004", "blogName": "Organic mix masala fresh", "blogImg": "url(public/image/blog-image/blog-4.jpg)"},
+        {"blogID": "BLOG005", "blogName": "Fresh organic brand", "blogImg": "url(public/image/blog-image/blog-5.jpg)"},
+        {"blogID": "BLOG006", "blogName": "Healthy and skin for your", "blogImg": "url(public/image/blog-image/blog-6.jpg)"},
+        {"blogID": "BLOG007", "blogName": "Vegist special liquide fresh", "blogImg": "url(public/image/blog-image/blog-7.jpg)"}
+    ]
+}
